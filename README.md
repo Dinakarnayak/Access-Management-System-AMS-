@@ -1,2 +1,6 @@
 # Access-Management-System-AMS-
 The Access Management System (AMS) is a web-based application for managing user access to software within an organization. It allows users to request access, and managers to approve or reject requests. Admins can create software and manage system settings, ensuring secure and efficient access control, using Java, JSP, and PostgreSQL
+
+The Access Management System (AMS) is a web-based application designed to streamline and manage user access requests for software applications within an organization. Built using Java Servlets and JavaServer Pages (JSP), AMS provides a secure and efficient platform for handling user registrations, access requests, and approvals, ensuring that the right individuals have the appropriate level of access to company software.
+
+AMS incorporates three main user roles: Employees, Managers, and Admins, each with distinct capabilities. Employees can sign up, log in, and submit requests to access software, specifying the desired access level such as read, write, or admin permissions. Managers can review these requests, approving or rejecting them based on necessity and adherence to internal policies. Admins, with the highest privileges, can not only manage access requests but also create and manage software applications and configure system settings.
