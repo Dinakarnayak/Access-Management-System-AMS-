@@ -93,4 +93,3 @@ Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost
     <version>42.2.23</version>
 </dependency>
 ```
-```
