@@ -1,0 +1,25 @@
+UserAccessManagementSystem/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           ├── servlet/
+│   │   │           │   ├── SignUpServlet.java
+│   │   │           │   ├── LoginServlet.java
+│   │   │           │   ├── SoftwareServlet.java
+│   │   │           │   ├── RequestServlet.java
+│   │   │           │   └── ApprovalServlet.java
+│   │   │           └── model/
+│   │   │               └── User.java
+│   │   └── resources/
+│   │       └── database/
+│   │           └── create_tables.sql
+│   └── webapp/
+│       ├── signup.jsp
+│       ├── login.jsp
+│       ├── createSoftware.jsp
+│       ├── requestAccess.jsp
+│       └── pendingRequests.jsp
+└── pom.xml
